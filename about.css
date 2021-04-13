@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lobster&family=Open+Sans&family=Righteous&family=Train+One&display=swap');
+
+body{
+    font-family: 'Fredoka One', cursive;
+    background-color:aquamarine;
+}
+
+.pics img{
+    width: 50%;
+    justify-content: center;
+    margin: 1.3em;
+}
+
+.text-wrapper{
+    width: 100%;
+    position: relative;
+    margin-top: -70%;
+}
+
+.text-wrapper p{
+    text-align: center;
+    color: black;
+    font-size: 1.8vw;    
+}

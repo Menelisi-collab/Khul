@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+body{
+    font-family: 'Train One', cursive;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+    color: purple;
+}
+
+.pics img{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 1.3em;
+    
+}
+
+form{
+    margin: 50px auto;
+    width: 450px;
+    color: white;
+    position: relative;
+    margin-top: -60%;
+    cursor: pointer;
+}
+
+input{
+    padding: 10px;
+    font-size: inherit;
+    border-radius: 1em;
+    color: blueviolet;
+}
